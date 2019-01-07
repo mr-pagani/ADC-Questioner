@@ -8,7 +8,7 @@ Questioner allows the meetup organizer to prioritize the questions to be answere
 
 The project is managed on a pivotal tracker board. [View the board here](https://www.pivotaltracker.com/n/projects/2235290)
 
-The site is published (here)
+The site is published (https://mr-pagani.github.io/ADC-Questioner/UI)
 
 Features
 ----------------
